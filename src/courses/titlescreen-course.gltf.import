@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/course-size.glb-7adc281d30f1cff41ba163cebb332763.scn"
+path="res://.import/titlescreen-course.gltf-2f55617a0bf16c151cc4e03ff6526407.scn"
 
 [deps]
 
-source_file="res://course-size.glb"
-dest_files=[ "res://.import/course-size.glb-7adc281d30f1cff41ba163cebb332763.scn" ]
+source_file="res://courses/titlescreen-course.gltf"
+dest_files=[ "res://.import/titlescreen-course.gltf-2f55617a0bf16c151cc4e03ff6526407.scn" ]
 
 [params]
 
